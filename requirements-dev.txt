@@ -1,0 +1,4 @@
+-r src/workshop/requirements.txt
+black
+ruff
+pre-commit
